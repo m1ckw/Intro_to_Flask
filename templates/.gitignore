@@ -1,0 +1,25 @@
+# VS Code
+.vscode
+
+# Python
+*.pyc
+__pycache__
+*.pyo
+*.pyd
+*.pyc
+*.so
+
+# Virtual environments
+venv/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Databases
+*.sqlite
+
+# Flask
+instance/
+.flaskenv
+.env
